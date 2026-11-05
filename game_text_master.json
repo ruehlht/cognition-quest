@@ -1,0 +1,969 @@
+{
+  "alex": {
+    "meet": [
+      "Alex is a capable, efficient mathematics major . She enjoys solving problems and wants her efforts to feel worthwhile.",
+      "But she's taking a required first-year core writing course unrelated to her major . With demanding math coursework and other priorities, she wonders why she should spend hours analyzing fiction instead of focusing on something else."
+    ],
+    "assignment": [
+      "In her first-year writing course, Alex has been assigned a short story and a 300-word analysis . Her instructor asks her to:",
+      "Read the short story carefully.",
+      "Identify and analyze its central theme.",
+      "Use two examples from the text and explain how each supports her interpretation."
+    ],
+    "dilemma": [
+      "Alex could ask AI to produce a convincing analysis in seconds. That would free up time for her mathematics courses.",
+      "But if she does, she'll miss a chance to interpret evidence, navigate ambiguity, and defend her own reasoning.",
+      "The battle within: Two competing impulses pull at Alex as she decides what to do."
+    ],
+    "trickster": "AI can analyze this in seconds. I'm a math major. How often will I really need this skill?",
+    "scholar": "Maybe not literary analysis, but explaining reasoning and using evidence? I'll need that in statistics, research, and my future work.",
+    "priorities": [
+      [
+        "Reason to Engage",
+        "Help Alex find purpose, relevance, curiosity, or choice that makes the thinking worth doing."
+      ],
+      [
+        "Reasonable AI Friction",
+        "Protect the important interpretation and reasoning without punitive barriers or busywork."
+      ]
+    ],
+    "priorityNotes": [
+      "These priorities overlap; addressing one may help address the other. There is no perfect redesign. The joy is in experimenting, discussing, and reflecting on your choices."
+    ],
+    "intro": "Redesign Alex’s assignment—or part of it—to help her see why the thinking matters and encourage her to do that thinking herself.",
+    "prompt": "How will your guild change the assignment, its framing, or the support students receive to help Alex see why the work matters and do the important thinking herself? Describe what you would change and how it addresses her two design priorities.",
+    "questions": "What thinking must Alex do herself? How could the assignment invite curiosity, agency, or a compelling purpose? Where might AI help without replacing interpretation and evidence-based reasoning? Can one redesign choice address both priorities?",
+    "weaponIntro": [
+      "Roll your physical d20 for an optional design strategy. Rolls 1–5 reveal weapon one; 6–10 weapon two; 11–15 weapon three; and 16–20 weapon four. You may use, adapt, or ignore the suggestion."
+    ],
+    "weapons": [
+      [
+        "Compass of Transfer",
+        [
+          "Connect literary interpretation to the reasoning Alex already values in mathematics. Ask her to identify a claim, select evidence, explain why the evidence supports the claim, and consider an alternative interpretation. Then explicitly show how these moves transfer to defending a mathematical proof, evaluating a model, explaining a solution to someone else, or making decisions with incomplete information. The instructor might introduce a brief side-by-side example before the assignment, build a transfer question into the prompt, or invite Alex to reflect afterward on where she used these skills. The goal is not to make Alex love literature; it is to help her recognize the usefulness of reasoning beyond one discipline.",
+          "Where will Alex encounter the connection before she decides the assignment is irrelevant?"
+        ]
+      ],
+      [
+        "Lantern of Purpose",
+        [
+          "Make the reason for the assignment visible before students begin. Instead of announcing only a 300-word analysis, the instructor could frame it as practice making a defensible interpretation when reasonable people may disagree. Offer a concrete example: two readers notice different details in the same story and must explain what those details support. Connect this practice to evaluating claims, communicating conclusions, and explaining a judgment to an audience. A short instructor video, introductory question, or example from another discipline could establish the purpose without adding a major new assignment.",
+          "What would make Alex see a reason to do the thinking herself rather than outsource it?"
+        ]
+      ],
+      [
+        "Key of Inquiry",
+        [
+          "Give Alex a genuine question or choice that creates curiosity while keeping the core literary-analysis goal intact. Students might choose among short stories, select a puzzling moment or contradiction, or investigate why two readers could interpret the same character differently. Have them formulate a question, identify two textual details, and defend a tentative interpretation. AI might help brainstorm possible questions after Alex has noticed something herself, but it should not select the evidence or write the reasoning. A small choice can create ownership without changing the scope of a required writing assignment.",
+          "What choice or puzzle would make Alex want to investigate—and where does her own evidence-based thinking remain essential?"
+        ]
+      ],
+      [
+        "Mirror of Judgment",
+        [
+          "Make the judgment visible rather than treating analysis as a formula for producing the right answer. Present two plausible interpretations of the same passage, each supported by some evidence. Ask Alex to choose, challenge, or combine them, explaining which details carry the most weight and why; she might also identify what would weaken her conclusion. The instructor can model a short claim–evidence–reasoning exchange or have peers compare interpretations. If AI is used, Alex should first form her own view, then test an AI counterargument against the actual text rather than accepting it as an answer key.",
+          "How will Alex practice defending a judgment and responding to a reasonable alternative?"
+        ]
+      ]
+    ],
+    "bossIntro": [
+      "Roll your physical d20. The outcome is fictional and does not evaluate your guild’s redesign. Lower rolls bring worse or unluckier futures; higher rolls bring more positive ones."
+    ],
+    "endings": [
+      [
+        "The Dragon of Bad Decisions",
+        [
+          "Alex lets AI write her literary analysis. She gets an A and concludes that explaining her reasoning is a waste of time.",
+          "Years later, she's hired to calculate the structural requirements for a bridge connecting two kingdoms.",
+          "Her calculations are correct, but when the royal engineers question her assumptions, Alex can't explain or defend her recommendations.",
+          "The king decides to trust a confident AI-generated engineering report instead.",
+          "Unfortunately, the report recommends building the bridge out of enchanted marshmallows.",
+          "The bridge collapses.",
+          "The dragon living beneath it is furious."
+        ]
+      ],
+      [
+        "The Oregon Trail Incident",
+        [
+          "Alex lets AI complete her writing assignments because she doesn't see why a mathematician needs to practice making arguments.",
+          "Years later, she joins an Oregon Trail reenactment expedition. When the group debates which route to take, Alex suspects that one of the proposed routes is dangerous.",
+          "But she struggles to explain her concerns or support them with convincing evidence. Another traveler makes a confident argument for the shorter route, and the group follows his recommendation.",
+          "Unfortunately, the route leads them to a contaminated water source.",
+          "Alex dies of dysentery."
+        ]
+      ],
+      [
+        "The Haunted Citation",
+        [
+          "Alex never develops the habit of examining evidence behind convincing claims. After all, AI can always produce an explanation that sounds reasonable.",
+          "Years later, she uses an AI-generated report to convince a university to renovate its historic library.",
+          "Unfortunately, the report cites a nonexistent architectural survey and recommends removing a load-bearing wall.",
+          "The renovation awakens the ghost of a furious librarian.",
+          "The librarian haunts Alex's laptop, demanding credible sources for every statement she makes."
+        ]
+      ],
+      [
+        "The Sacred Bell Curve",
+        [
+          "Alex never sees the value of explaining how evidence supports a conclusion. She assumes that if her calculations are correct, everyone should simply accept them.",
+          "Years later, she presents a statistical analysis to a royal council.",
+          "When council members ask what her findings mean, Alex shows them another equation.",
+          "They misunderstand her presentation completely and establish a religious movement worshipping the Sacred Bell Curve.",
+          "Alex spends the next decade insisting that she never recommended sacrificing goats to the standard deviation."
+        ]
+      ],
+      [
+        "The Book Club Spreadsheet",
+        [
+          "Alex lets AI handle every literary analysis because she believes interpreting stories is irrelevant to mathematics.",
+          "Years later, she joins a book club to make friends.",
+          "When members ask what she thought of the novel, Alex presents a spreadsheet calculating the probability that each character was lying.",
+          "Someone asks why she thinks the narrator is unreliable.",
+          "Alex points to the spreadsheet.",
+          "\"But what in the story supports that conclusion?\"",
+          "Alex has no idea.",
+          "The group unanimously votes to ban spreadsheets."
+        ]
+      ],
+      [
+        "The Unreliable Roommate",
+        [
+          "Alex's roommate insists that their electricity bill has doubled because Alex keeps leaving her laptop plugged in overnight.",
+          "Alex examines the bills, calculates their actual electricity usage, and discovers that the increase coincides with her roommate buying a portable space heater.",
+          "She presents the evidence, explains her calculations, and makes a convincing argument.",
+          "Her roommate agrees that Alex is right.",
+          "Then she asks Alex to stop leaving her laptop plugged in overnight anyway."
+        ]
+      ],
+      [
+        "The Murder Mystery Dinner",
+        [
+          "Alex gets good at weighing competing explanations.",
+          "At a murder-mystery dinner, she identifies the culprit before appetizers and provides citations.",
+          "The host stops inviting her."
+        ]
+      ],
+      [
+        "The Book Club Constitution",
+        [
+          "Alex learns to enjoy defending interpretations.",
+          "She starts a reading group, then drafts a twelve-page constitution for evidence-based discussion.",
+          "Members vote to keep only the snack policy."
+        ]
+      ],
+      [
+        "The Mystery Novelist",
+        [
+          "Alex learns to notice themes and clues, starts reading mysteries for pleasure, and writes one herself.",
+          "Her editor loves it but removes the fourteen-page mathematical proof revealing the murderer."
+        ]
+      ],
+      [
+        "Nothing Particularly Remarkable",
+        [
+          "Alex completes the analysis herself. She gets a little better at organizing claims and supporting them with evidence.",
+          "She occasionally uses that skill in other courses.",
+          "Nothing spectacular happens. That is enough."
+        ]
+      ],
+      [
+        "The Group Project",
+        [
+          "In a statistics group project, Alex helps classmates separate what their data shows from what they assume.",
+          "They write a clearer conclusion, earn a B+, order pizza, and move on."
+        ]
+      ],
+      [
+        "A Better Email",
+        [
+          "Alex uses her practice defending claims to explain a grading discrepancy to a professor, citing the rubric and remaining respectful.",
+          "The error is corrected.",
+          "She gets on with her afternoon."
+        ]
+      ],
+      [
+        "The Apartment Hunt",
+        [
+          "Alex and her roommate are choosing between two apartments. One is cheaper, but the other is closer to campus.",
+          "Alex initially assumes the cheaper apartment is the obvious choice. Then she starts comparing commuting costs, lease terms, and the time they'd spend traveling.",
+          "She puts together an argument for the more expensive apartment, explaining why it might actually be the better deal.",
+          "Her roommate points out a parking fee Alex overlooked.",
+          "They revise their calculations and choose an apartment together."
+        ]
+      ],
+      [
+        "The Next Semester",
+        [
+          "In mathematical theory the next semester, Alex must defend a complex proof in writing.",
+          "She recognizes the reasoning she practiced in first-year writing and is grateful for it.",
+          "She still does not love literary analysis."
+        ]
+      ],
+      [
+        "The Helpful Colleague",
+        [
+          "At work, Alex realizes a strong analysis must make sense to someone who does not share her assumptions.",
+          "She rewrites a confusing report, helps a colleague make a sound decision, and goes home on time."
+        ]
+      ],
+      [
+        "The Teaching Assistant",
+        [
+          "As a teaching assistant, Alex notices that one of her students consistently gets the right answers but struggles to explain how he arrived at them.",
+          "She remembers her own frustration with that required writing course. At the time, she couldn't understand why anyone would ask a mathematics major to analyze a short story.",
+          "Now she recognizes something familiar. Her student knows the mathematics, but he hasn't learned how to communicate his reasoning.",
+          "Alex helps him practice constructing an argument, supporting each step, and explaining why his conclusions make sense.",
+          "When he finally presents a complicated proof with confidence, Alex feels an unexpected surge of pride.",
+          "She realizes that the skills she once dismissed haven't just made her a better mathematician. They've made her a better teacher."
+        ]
+      ],
+      [
+        "The Footnote That Mattered",
+        [
+          "In graduate school, Alex joins a research team developing a mathematical model that could influence important decisions about public infrastructure.",
+          "While reviewing a colleague's paper, she notices that one of its central conclusions depends on an assumption the evidence doesn't fully support.",
+          "Rather than simply pointing out the mistake, Alex carefully traces the reasoning, gathers supporting evidence, and explains why the team should reconsider its approach.",
+          "Her colleagues initially resist. They've spent months developing the model. But Alex makes such a thoughtful, well-supported argument that they agree to investigate further.",
+          "She turns out to be right.",
+          "The team corrects the model before publication, and Alex's contribution earns her the respect of her colleagues. Soon, other researchers begin seeking her out—not just for her mathematical abilities, but because she asks excellent questions and makes everyone's work stronger."
+        ]
+      ],
+      [
+        "The Unexpected Connection",
+        [
+          "Alex becomes known for her unusual ability to explain complicated mathematics to people who don't consider themselves mathematically inclined.",
+          "At a conference, she attends a presentation by an environmental scientist struggling to explain a pattern in local wildlife populations.",
+          "Alex recognizes a mathematical relationship the scientist hasn't considered. Instead of simply presenting an equation, she asks questions, listens to the scientist's interpretation, and builds an explanation they can both understand.",
+          "Their collaboration leads to a new approach for predicting changes in the ecosystem.",
+          "Soon, Alex is working with biologists, historians, and urban planners, helping them recognize mathematical patterns in problems they once thought had nothing to do with mathematics.",
+          "She discovers that the most exciting mathematical insights sometimes begin with understanding how someone else sees the world."
+        ]
+      ],
+      [
+        "The Community Hearing",
+        [
+          "When Alex's community proposes a major redevelopment project, residents are deeply divided.",
+          "Supporters promise new jobs and economic growth. Opponents worry about housing costs, environmental damage, and the loss of neighborhood spaces. Both sides arrive at public meetings armed with statistics that seem to prove their positions.",
+          "Alex volunteers to help residents make sense of the competing claims.",
+          "She examines the evidence, identifies misleading comparisons, and creates clear explanations of what the numbers actually show—and what they cannot tell anyone.",
+          "But she doesn't stop there. She organizes community conversations where residents can ask questions, challenge assumptions, and explain which outcomes matter most to them.",
+          "Her work transforms an increasingly hostile debate into a thoughtful public discussion. The community ultimately develops a revised proposal that protects important neighborhood resources while addressing genuine economic needs.",
+          "Alex watches neighbors who once shouted past one another working together to shape their community's future.",
+          "For the first time, she fully appreciates how powerful a well-supported argument can be when it helps people understand one another."
+        ]
+      ],
+      [
+        "The Mathematician Who Saved the Realm",
+        [
+          "For centuries, the kingdoms of the Realm have struggled with disasters that seem entirely unrelated.",
+          "Crops fail without warning. Rivers flood prosperous villages. Dragons abandon their mountain territories. Ancient forests begin dying, and nobody can agree on why.",
+          "The royal scholars offer competing explanations. The druids blame the dragons. The dragons blame the wizards. The wizards insist that everything is statistically normal.",
+          "Then Alex notices something extraordinary.",
+          "The disasters follow a mathematical pattern—but understanding it requires connecting evidence from agriculture, ecology, history, economics, and even ancient legends.",
+          "Alex gathers scholars from across the Realm. She listens to their competing interpretations, challenges their assumptions, and builds a mathematical model that reveals how the kingdoms' decisions have been affecting one another for generations.",
+          "At the Grand Council, she presents her findings. The mathematics is complicated, but her explanation is so clear, her evidence so compelling, and her reasoning so carefully defended that even the dragons understand what must be done.",
+          "The kingdoms work together to restore the balance. The rivers settle, the forests recover, and the dragons return to their mountains.",
+          "Across the Realm, people begin discovering how mathematics can help them understand their own lives, communities, and world.",
+          "Alex becomes a legendary figure—not simply because she solved a mathematical problem, but because she helped an entire civilization understand why the solution mattered.",
+          "And somewhere in the distance, the Brain Tree blooms in gold."
+        ]
+      ]
+    ]
+  },
+  "archie": {
+    "meet": [
+      "Archie is a sociology major who enjoys complex ideas and usually earns strong grades. He likes examining how societies work, but his high expectations sometimes make it hard to commit to an interpretation.",
+      "With financial and time pressures and a reputation for doing well, he worries that making the wrong argument will mean he has failed."
+    ],
+    "assignment": [
+      "In an advanced sociology course, Archie must compare two competing sociological theories explaining inequality in access to higher education. He must examine what each theory explains well, where each falls short, and defend which interpretation he finds more convincing.",
+      "The paper is worth 20% of his grade. There is no preliminary draft, formative feedback, or opportunity to revise. His professor wants him to practice judgment in complex social systems, where different, equally defensible conclusions may emerge."
+    ],
+    "dilemma": [
+      "Archie is tempted to ask AI which theory is “right” before committing to a position. The confident answer promises relief from uncertainty.",
+      "But the point of the assignment is to weigh competing explanations and defend a reasoned judgment—even when there is no single guaranteed answer.",
+      "The battle within: Two competing impulses pull at Archie as he decides what to do."
+    ],
+    "trickster": "You’ve always gotten A’s. Your professor expects better than this. Ask AI which theory is right before you embarrass yourself.",
+    "scholar": "What if there isn’t one right answer? Maybe the point is learning how to make a judgment when things aren’t certain.",
+    "priorities": [
+      [
+        "Reasonable Conditions",
+        "Provide clarity, manageable stakes, useful feedback, and room to take intellectual risks."
+      ],
+      [
+        "Reasonable AI Friction",
+        "Keep the comparison and judgment with Archie while making constructive AI support possible."
+      ]
+    ],
+    "priorityNotes": [
+      "These priorities overlap; addressing one may help address the other. There is no perfect redesign. The joy is in experimenting, discussing, and reflecting on your choices."
+    ],
+    "intro": "Help Archie take intellectual risks without turning AI into an answer key.",
+    "prompt": "How could your guild change the assignment, its stakes, feedback, scaffolding, or AI boundaries so Archie can practice defending a judgment without feeling that every uncertainty is a failure? Address both design priorities.",
+    "questions": "Where does Archie need a chance to try, receive feedback, or revise? What would lower unnecessary stakes without eliminating rigor? How could AI support comparison or questioning rather than choose the theory for him?",
+    "weaponIntro": [
+      "Roll your physical d20 for an optional design strategy. Rolls 1–5 reveal weapon one; 6–10 weapon two; 11–15 weapon three; and 16–20 weapon four. You may use, adapt, or ignore the suggestion.",
+      "Remember: Your redesign should address both of Archie’s priorities. You might change the assignment, the preparation students receive, the opportunities for feedback, or how AI is incorporated. The goal isn’t to eliminate AI, but to preserve opportunities for students to develop and exercise their own judgment."
+    ],
+    "weapons": [
+      [
+        "Shield of Second Chances",
+        [
+          "Focus: Practice before high-stakes judgment Archie is afraid that choosing an imperfect argument will permanently damage his grade. What opportunities could you build in for him to test his reasoning before the final submission? Consider a short preliminary claim, a low-stakes comparison of the two theories, or an opportunity to revise an initial argument. Could students develop their own preliminary argument before asking AI to identify weaknesses or raise counterarguments? How might they document which suggestions they accepted or rejected, and why? How could these changes make intellectual risk-taking more reasonable without removing the challenge?",
+          "Could the instructor offer optional Zoom office hours where students can talk through tentative ideas before committing to a position? How might these opportunities make intellectual risk-taking feel less consequential?"
+        ]
+      ],
+      [
+        "Lantern of Clarity",
+        [
+          "Archie wants to know what a successful analysis looks like, but the assignment has no single correct conclusion. How could the professor make expectations clearer without suggesting that one interpretation is necessarily right? Consider what examples, models, or instructional materials could demonstrate how students might reach different, equally defensible conclusions through thoughtful reasoning and careful use of evidence. How could the professor show that complex social problems often involve competing explanations, incomplete evidence, and judgments about which factors matter most? Could AI-generated analyses provide contrasting examples for students to evaluate? What might students discover by comparing the reasoning behind two different conclusions rather than simply deciding which answer is correct?",
+          "How could the instructor model how to evaluate evidence, construct a defensible claim, and anticipate counterarguments?"
+        ]
+      ],
+      [
+        "Potion of Perspective",
+        [
+          "Focus: Framing uncertainty as learning Archie interprets uncertainty as a sign that he doesn't understand the material. But weighing competing explanations and making judgments without absolute certainty are central to the learning goals of this assignment. How might the professor frame the assignment so students recognize that wrestling with uncertainty is part of the intellectual work, not evidence of failure? Consider what the professor could communicate through introductory lectures, assignment instructions, examples from sociological research, or other course materials. Could students compare two different AI-generated interpretations of the same sociological issue and discuss why neither necessarily provides a definitive answer? How might this activity help students become more comfortable with ambiguity rather than seeking certainty from AI?"
+        ]
+      ],
+      [
+        "Bridge of Feedback",
+        [
+          "Focus: Peer interaction and formative feedback Archie won't receive feedback until after his final submission. How could you create opportunities for him to test his reasoning and encounter alternative interpretations before he commits to a final argument? Consider a structured peer review or discussion board where students compare interpretations, challenge one another's evidence, and recognize that different conclusions can be defensible. Could students share their initial arguments, use AI to generate a counterargument, and then discuss with peers whether the counterargument is convincing? Students could explain where AI's reasoning holds up, where it falls short, and whether it changes their own position. How might you provide meaningful formative feedback without creating substantial additional grading work for the instructor?",
+          "Could an anonymous discussion board allow students to share questions, uncertainties, or concerns about the assignment without fear of judgment? How might these options provide meaningful feedback without creating substantial additional grading work?"
+        ]
+      ]
+    ],
+    "bossIntro": [
+      "Roll your physical d20. The outcome is fictional and does not evaluate your guild’s redesign. Lower rolls bring worse or unluckier futures; higher rolls bring more positive ones."
+    ],
+    "endings": [
+      [
+        "The One True Theory",
+        [
+          "Despite his professor's best efforts, Archie remains convinced that every complex question must have one correct answer. He dedicates his life to discovering the One True Theory of Everything. After decades of increasingly elaborate calculations, he believes he's finally found it—at the center of a black hole. He enters the black hole to investigate. His theory remains unconfirmed."
+        ]
+      ],
+      [
+        "The Perfect Answer",
+        [
+          "Archie becomes so determined to eliminate uncertainty from his research that he builds a machine capable of evaluating every possible explanation for every possible human behavior. The machine spends seven years calculating, announces that it has reached a definitive conclusion, and immediately explodes. Its final message: \"More data required.\""
+        ]
+      ],
+      [
+        "The Oracle of Certainty",
+        [
+          "Archie becomes better at comparing competing explanations, but he still finds uncertainty deeply uncomfortable. When he hears of an oracle that promises absolute certainty, he travels across the realm to consult it. After seven days of deliberation, the oracle announces, \"It depends.\" Archie spends the next three years filing a complaint with the Oracle Licensing Board."
+        ]
+      ],
+      [
+        "The Endless Revision",
+        [
+          "Archie learns to construct defensible arguments, but he struggles to accept that even a strong argument will have limitations. He spends so long anticipating every possible objection to his final paper that he never submits it. His professor eventually emails to ask whether he's still enrolled. Archie replies, \"That depends on how we're defining enrolled.\""
+        ]
+      ],
+      [
+        "Everything Is Debatable",
+        [
+          "Archie becomes remarkably good at constructing and defending arguments. Unfortunately, he begins treating every everyday decision as an opportunity for intellectual debate. Choosing a restaurant now requires an examination of competing priorities, supporting evidence, and potential counterarguments. No one will go to lunch with him anymore."
+        ]
+      ],
+      [
+        "The Devil's Advocate",
+        [
+          "Archie learns to appreciate competing perspectives and becomes an enthusiastic devil's advocate. Unfortunately, he starts defending positions he doesn't actually believe, just to explore their underlying assumptions. His friends eventually stop asking his opinion because no one can figure out what he actually thinks."
+        ]
+      ],
+      [
+        "The Cautious Debate",
+        [
+          "Archie practices stating a claim without pretending certainty. He wins a class debate, then spends his victory speech describing six limitations. The audience leaves before he reaches the conclusion."
+        ]
+      ],
+      [
+        "The Footnote Avalanche",
+        [
+          "Archie learns to support claims with evidence and adds thirty-eight footnotes to a two-page reflection. His professor praises the reasoning and suggests a little restraint."
+        ]
+      ],
+      [
+        "The Helpful AI Critic",
+        [
+          "Archie asks AI to challenge his draft rather than choose a theory for him. It offers ten objections. He finds two genuinely useful. The other eight contain questionable assumptions, irrelevant examples, and one entirely fabricated citation. Archie spends the rest of the afternoon writing a detailed report to OpenAI explaining why its critique needs improvement. He forgets to finish his own assignment."
+        ]
+      ],
+      [
+        "A Workable First Draft",
+        [
+          "Archie writes an imperfect first draft comparing two theories. It gives him something concrete to revise. He feels nervous, submits it, and gets useful feedback."
+        ]
+      ],
+      [
+        "The Office-Hours Visit",
+        [
+          "Archie brings his tentative argument to office hours and asks where his reasoning is weak. He leaves with two revisions to make and considerably less dread."
+        ]
+      ],
+      [
+        "The Group Discussion",
+        [
+          "In a seminar, Archie explains why one theory fits the evidence better while acknowledging what the other explains. A classmate disagrees. They have a productive conversation."
+        ]
+      ],
+      [
+        "A B Plus",
+        [
+          "Archie takes an intellectual risk and earns a B+ on a difficult analysis. He is disappointed for an afternoon, then realizes he learned something substantial and is still doing fine."
+        ]
+      ],
+      [
+        "The Second Attempt",
+        [
+          "Archie uses feedback to improve a comparison of theories. His revised explanation is clearer, not because he found a secret correct answer but because he can defend his choice."
+        ]
+      ],
+      [
+        "A Better Question",
+        [
+          "When stuck on a new case, Archie asks what evidence would favor one explanation over another. The question helps him begin instead of freezing."
+        ]
+      ],
+      [
+        "The Courage to Disagree",
+        [
+          "Archie respectfully challenges a confident interpretation in class, citing the case evidence. The professor welcomes the disagreement, and Archie discovers that uncertainty need not silence him."
+        ]
+      ],
+      [
+        "The Research Partner",
+        [
+          "Archie becomes a trusted research partner because he can evaluate competing theories and explain his decisions without overselling certainty. Colleagues seek out his judgment."
+        ]
+      ],
+      [
+        "The Community Leader",
+        [
+          "Archie helps a local community understand competing explanations for unequal access to essential services. Rather than insisting on a single solution, he helps residents weigh evidence, recognize competing priorities, and make informed decisions together. His ability to navigate difficult conversations earns their trust, and he eventually becomes a respected community leader."
+        ]
+      ],
+      [
+        "The Thoughtful Scholar",
+        [
+          "Archie mentors younger students who fear being wrong. He shows them how to make a provisional claim, seek feedback, and revise. Their confidence grows alongside their reasoning."
+        ]
+      ],
+      [
+        "Ambassador to the Dragons",
+        [
+          "Archie becomes renowned throughout the realm for his ability to navigate complicated disputes, weigh competing interests, and make difficult judgments without pretending that every problem has a perfect solution. When diplomatic relations between humans and dragons begin to deteriorate, the kingdom appoints Archie as its ambassador. The dragons have a vastly different culture, a complicated political system, and several thousand years of unresolved grievances. Archie listens carefully, considers competing perspectives, and negotiates a historic peace agreement. For the first time in centuries, humans and dragons agree on something: Archie is exceptionally good at his job."
+        ]
+      ]
+    ]
+  },
+  "gwen": {
+    "meet": [
+      "Gwen is a college athlete balancing a demanding schedule of classes, practices, games, and travel.",
+      "She's hardworking and motivated, but there never seem to be enough hours in the day. Between athletics and academics, she's constantly deciding what needs her attention most urgently.",
+      "This semester, Gwen is taking an asynchronous introductory psychology course. She's genuinely interested in understanding how people think and behave, but keeping up with the course materials is becoming difficult, especially when assignments feel repetitive or disconnected from what interests her about psychology.",
+      "Gwen wants to learn. She just needs to figure out how to make everything fit."
+    ],
+    "assignment": [
+      "Each week, Gwen's psychology professor assigns three recorded lectures, textbook readings, and a 20-question online quiz.",
+      "The quizzes are open-book, allow unlimited attempts, and primarily ask students to identify psychological concepts or recall definitions.",
+      "Students receive a score after each attempt, but little explanation of why their answers are correct or incorrect.",
+      "The professor knows that developing foundational knowledge of psychological concepts is essential. Students need to recognize, remember, and understand key terminology before they can confidently use those concepts to explain human behavior.",
+      "But the current quizzes mostly reward locating and recognizing information. They offer fewer opportunities for students to retrieve what they know, connect concepts to examples, or practice using that foundational knowledge."
+    ],
+    "dilemma": [
+      "Gwen has a game tomorrow, practice this afternoon, and assignments due in two other courses. She still needs to complete her psychology quiz. AI could answer its definition questions in seconds.",
+      "But Gwen actually likes psychology. She wants to understand behavior, not simply hunt for definitions. She wishes the quizzes helped her use what she is learning.",
+      "The battle within: Two competing impulses pull at Gwen as she decides what to do."
+    ],
+    "trickster": "We’ve got practice in an hour, a game tomorrow, and two other assignments due. AI can handle these questions. Let’s go!",
+    "scholar": "But I actually want to understand psychology. I just wish these quizzes helped me use what I’m learning instead of hunting for definitions.",
+    "priorities": [
+      [
+        "Meaningful Practice",
+        "Gwen needs opportunities to develop foundational knowledge of psychological terminology while also practicing how to retrieve, recognize, connect, and apply those concepts. How might the assignment help her build fluency with essential ideas and begin using them to understand human behavior?"
+      ],
+      [
+        "Reasonable AI Friction",
+        "AI can complete definition-based quizzes without requiring Gwen to think about the concepts herself. How might the assignment encourage Gwen to retrieve, recognize, or apply her own understanding before turning to AI for assistance?"
+      ]
+    ],
+    "priorityNotes": [
+      "These priorities overlap; addressing one may help address the other. There is no perfect redesign. The joy is in experimenting, discussing, and reflecting on your choices."
+    ],
+    "intro": "Help Gwen practice psychology meaningfully within a schedule that is already overflowing.",
+    "prompt": "How could your guild change the quiz, practice opportunities, feedback, or AI expectations so Gwen can learn and apply psychology rather than merely complete questions quickly? Address both design priorities.",
+    "questions": "What could Gwen practice in a short, focused window? How might she apply psychology to a realistic situation? What feedback would help her improve? Where should she think before asking AI?",
+    "weaponIntro": [
+      "Roll your physical d20 for an optional design strategy. Rolls 1–5 reveal weapon one; 6–10 weapon two; 11–15 weapon three; and 16–20 weapon four. You may use, adapt, or ignore the suggestion.",
+      "Before You Choose Your Cognition Weapon: Gwen needs opportunities to practice foundational psychological knowledge, but she also needs to understand why that practice matters. As you consider your redesign, think about how the instructor might communicate the purpose of the activities, encourage students to attempt the thinking themselves, and position AI as a resource for learning rather than a shortcut around it."
+    ],
+    "weapons": [
+      [
+        "Blade of Play",
+        [
+          "Gamification and engaging practice Gwen needs to develop fluency with psychological terminology, but her weekly quizzes feel like another task to check off her list. How might the professor make practicing foundational knowledge more engaging without sacrificing the learning goals? Consider interactive flashcards, matching games, challenges, or activities built with tools such as Materia. Could students contribute their own definitions, examples, or flashcards to a shared practice bank? Could game elements make repeated practice more appealing? How might the instructor explain why repeated practice strengthens memory and encourage students to attempt challenges themselves before consulting AI?",
+          "Flashcard Quest: Students create their flashcards, take them somewhere, and complete short challenges throughout the week.",
+          "Could students create physical flashcards using their own explanations of psychological concepts? What if the professor turned studying into a series of small challenges—taking a picture of themselves using their flashcards somewhere unexpected, completing a five-minute practice session between activities, or creating an example from their daily lives?",
+          "Could students earn participation points, unlock challenges, or reach checkpoints for completing these activities? How might the professor encourage students to engage with the material in manageable, enjoyable ways throughout the week?",
+          "Could students create their own physical or digital flashcards, perhaps submitting a photo or sample of their work, and use them for short practice sessions throughout the week? How might the professor encourage students to distribute their practice across several brief sessions rather than cramming before a quiz?"
+        ]
+      ],
+      [
+        "Lens of Application",
+        [
+          "Recognizing psychology in real life Gwen knows psychology is about understanding people, but her quizzes rarely ask her to recognize psychological concepts in action. How could the professor incorporate short stories, realistic situations, or everyday examples into the quizzes? Consider a brief narrative describing someone's behavior. Students might identify three psychological concepts illustrated in the story, choose which concept best explains a particular action, or distinguish between two plausible explanations. Could automated feedback continue the story, revealing how a psychological concept explains what happens next? How might students attempt their own interpretations before using AI to explore alternative explanations or test their understanding?"
+        ]
+      ],
+      [
+        "Forge of Stories",
+        [
+          "Generating explanations and making connections What if Gwen didn't always have to demonstrate her knowledge through multiple-choice questions? Could students write a short story incorporating several psychological concepts, create a fictional character whose behavior illustrates what they've learned, or explain a real-world situation using terminology from the module? For example, students might write a 200-word narrative demonstrating five concepts and briefly annotate where each concept appears. How might the professor encourage students to construct their own examples first, then use AI to test whether they've applied the concepts accurately? Could these activities be occasional, peer-reviewed, or graded for completion to keep the workload manageable in a large introductory course?"
+        ]
+      ],
+      [
+        "Crystal of Progress",
+        [
+          "Changing the stakes and purpose of assessment What if Gwen's weekly quizzes were opportunities to discover what she knows rather than tests she needs to ace? Consider awarding full credit for completing each quiz, regardless of the number of correct answers. Students receive feedback explaining their mistakes, identifying concepts they need to revisit, and providing examples to help them understand. Their quiz results become a personalized study guide for a later assessment, such as the midterm, where they demonstrate what they've learned. Could the professor provide engaging, story-based explanations or targeted practice opportunities that make reviewing mistakes worthwhile? How might the instructor explain that mistakes are valuable feedback and that having AI produce perfect answers undermines the purpose of the practice?"
+        ]
+      ]
+    ],
+    "bossIntro": [
+      "Roll your physical d20. The outcome is fictional and does not evaluate your guild’s redesign. Lower rolls bring worse or unluckier futures; higher rolls bring more positive ones."
+    ],
+    "endings": [
+      [
+        "The Psychology of Everything",
+        [
+          "Gwen discovers that AI has a quick, confident explanation for almost every human behavior. Soon she's consulting it for everything, from choosing breakfast to understanding her teammates.",
+          "When she's unexpectedly appointed to negotiate with a furious dragon, she immediately reaches for AI.",
+          "Unfortunately, the dragon has eaten her phone.",
+          "Gwen has no idea what to say. The negotiations go spectacularly badly.",
+          "The dragon eats the negotiating table, too."
+        ]
+      ],
+      [
+        "The Memory Thief",
+        [
+          "Gwen becomes so accustomed to having AI retrieve information that she rarely practices recalling anything herself.",
+          "When a mysterious creature steals the kingdom's collective memory, Gwen volunteers to help restore it.",
+          "She discovers that the creature can only be defeated by answering questions about what the kingdom's inhabitants have learned.",
+          "Unfortunately, Gwen can't remember any of the answers, and there's no Wi-Fi in the enchanted forest.",
+          "The creature wins. Nobody remembers why."
+        ]
+      ],
+      [
+        "The Endless Flashcard",
+        [
+          "Gwen discovers an enchanted flashcard deck that promises complete mastery of psychology without requiring her to practice.",
+          "She eagerly accepts.",
+          "Unfortunately, the deck interprets \"mastery\" as knowing every thought, memory, and feeling experienced by every creature in the realm.",
+          "Her mind is immediately flooded with several million years of psychological history.",
+          "The last thing she remembers is a particularly anxious mushroom."
+        ]
+      ],
+      [
+        "The Great Bell War",
+        [
+          "Gwen has memorized the definition of classical conditioning but hasn't quite learned when it applies.",
+          "When two villages begin arguing over a disputed border, Gwen remembers Pavlov's famous experiment with dogs and bells. She decides that ringing a bell whenever the villagers argue will eventually teach them to stop.",
+          "Unfortunately, the villagers aren't dogs, and the bell doesn't solve their disagreement.",
+          "Both villages declare war over who gets to keep the bell."
+        ]
+      ],
+      [
+        "The Human Flashcard",
+        [
+          "Gwen becomes so enthusiastic about practicing psychological terminology that she starts turning everyday conversations into quizzes.",
+          "Her teammates learn to avoid eye contact because Gwen might ask them to distinguish classical from operant conditioning before passing the ball."
+        ]
+      ],
+      [
+        "The Psychology of Practice",
+        [
+          "Gwen starts recognizing psychological concepts everywhere.",
+          "During basketball practice, she interrupts a drill to explain how reinforcement might influence team behavior.",
+          "Her coach agrees that the observation is interesting.",
+          "Then makes her run laps for interrupting practice."
+        ]
+      ],
+      [
+        "The Overenthusiastic Storyteller",
+        [
+          "Gwen discovers that writing stories helps her remember psychological concepts.",
+          "Unfortunately, her latest story about a trip to the grocery store includes fourteen cognitive biases, six forms of conditioning, and an elaborate subplot involving Freud.",
+          "Her professor suggests that sometimes a banana is just a banana."
+        ]
+      ],
+      [
+        "The Feedback Enthusiast",
+        [
+          "Gwen discovers that mistakes can help her improve, so she starts paying closer attention to feedback during basketball practice.",
+          "Instead of getting discouraged when she misses a shot, she asks her coach what she could adjust and tries again.",
+          "Over time, her shooting improves, and she becomes a more confident player."
+        ]
+      ],
+      [
+        "The AI Study Buddy",
+        [
+          "Gwen begins using AI to generate practice scenarios instead of answering her quizzes for her.",
+          "She's delighted when AI produces a story illustrating operant conditioning. She studies it carefully and confidently identifies the concept.",
+          "Unfortunately, the example is actually classical conditioning.",
+          "Gwen spends the next three days arguing with AI about which one of them is correct.",
+          "Neither changes its mind."
+        ]
+      ],
+      [
+        "The Useful Mistake",
+        [
+          "Gwen gets several questions wrong on a practice quiz.",
+          "Instead of immediately trying to improve her score, she reads the feedback and realizes she's been confusing two related concepts.",
+          "When she encounters them again on the midterm, she knows the difference."
+        ]
+      ],
+      [
+        "The Five-Minute Challenge",
+        [
+          "Gwen starts using short practice activities between classes and athletic commitments.",
+          "Five minutes of flashcards here, a few application questions there.",
+          "She discovers that learning doesn't always require an uninterrupted afternoon."
+        ]
+      ],
+      [
+        "Psychology at Practice",
+        [
+          "During a difficult practice, Gwen notices how her teammates respond differently to encouragement and criticism.",
+          "She recognizes concepts from her psychology course and begins thinking about how they apply to motivation.",
+          "For once, the material doesn't feel disconnected from her life."
+        ]
+      ],
+      [
+        "The Study Group",
+        [
+          "Gwen and a few classmates begin exchanging short examples of psychological concepts.",
+          "One person writes a scenario, and the others identify which concepts it illustrates.",
+          "Their examples become increasingly ridiculous, but their explanations become more accurate."
+        ]
+      ],
+      [
+        "The Midterm Surprise",
+        [
+          "Gwen completes her weekly practice quizzes without worrying about getting every answer correct.",
+          "She reviews the explanations, identifies her weak spots, and practices them again.",
+          "When the midterm arrives, she realizes she knows more than she expected."
+        ]
+      ],
+      [
+        "The Story That Stuck",
+        [
+          "Gwen creates a fictional character whose behavior illustrates several psychological concepts.",
+          "Weeks later, she encounters a question about one of those concepts.",
+          "She remembers her character immediately—and can explain why the concept applies."
+        ]
+      ],
+      [
+        "The Teammate Who Listens",
+        [
+          "Gwen notices that a teammate has been struggling with motivation.",
+          "Rather than jumping to conclusions, she draws on what she's learned about behavior, motivation, and individual differences.",
+          "She asks thoughtful questions and becomes a more supportive teammate."
+        ]
+      ],
+      [
+        "The Peer Mentor",
+        [
+          "Gwen begins helping other student-athletes find manageable ways to study.",
+          "She shows them how to use short practice sessions, create memorable examples, and learn from mistakes rather than simply chase perfect scores.",
+          "Her teammates start approaching studying with greater confidence."
+        ]
+      ],
+      [
+        "The Psychology of Leadership",
+        [
+          "Gwen becomes captain of her college basketball team. When the team begins struggling after a series of losses, she draws on what she's learned about motivation, learning, and group behavior.",
+          "Rather than delivering another generic motivational speech, she helps her teammates identify what's working, learn from mistakes, and support one another.",
+          "The team begins improving, and Gwen discovers that understanding how people learn can be just as valuable as knowing how to play."
+        ]
+      ],
+      [
+        "The Community Coach",
+        [
+          "Years later, Gwen coaches a youth sports program.",
+          "She uses what she learned about motivation, learning, and feedback to create an environment where young athletes feel comfortable making mistakes and improving.",
+          "Her players develop confidence, resilience, and a genuine love of learning."
+        ]
+      ],
+      [
+        "The Champion of Minds",
+        [
+          "When an ancient enchantment causes the inhabitants of the realm to forget everything they learn by sunset, the kingdom calls upon Gwen.",
+          "Drawing on her understanding of memory, practice, motivation, and learning, she develops a series of enchanted challenges that help the people rebuild their knowledge.",
+          "The kingdom's scholars are astonished. The dragons are impressed. Even the Trickster admits that practice might be worthwhile.",
+          "Gwen saves the realm—and still makes it to basketball practice on time."
+        ]
+      ]
+    ]
+  },
+  "hunter": {
+    "meet": [
+      "Hunter is a history enthusiast, an avid gamer, a technology enthusiast, and the kind of student who can spend hours exploring an interesting question.",
+      "He's naturally curious. When something catches his attention, he wants to know everything about it. He loves mysteries, unexpected connections, and theories that challenge conventional explanations.",
+      "As he's experimented more with AI, he's discovered how much he enjoys using it to explore his interests. One question leads to another, and AI can generate fascinating explanations, unexpected connections, and entirely new directions for investigation.",
+      "But Hunter doesn't always stop to examine the evidence behind those explanations. AI can take him so far down a rabbit hole, presenting possibilities with such convincing detail, that he sometimes forgets to ask whether the information is actually reliable.",
+      "This semester, he's taking a history course that encourages students to investigate historical mysteries and evaluate competing explanations.",
+      "Hunter is thrilled. This is exactly the kind of assignment he loves."
+    ],
+    "assignment": [
+      "Hunter's history professor asks students to investigate the disappearance of the Roanoke Colony in the late 1500s.",
+      "Students must examine historical evidence, compare competing explanations for what happened to the colonists, and develop a hypothesis supported by credible sources.",
+      "Their analysis should acknowledge gaps in the historical record, distinguish between evidence and speculation, and explain why their interpretation is more convincing than alternative explanations.",
+      "The professor wants students to practice historical inquiry: asking questions, evaluating sources, weighing evidence, and constructing defensible interpretations when the available information is incomplete."
+    ],
+    "dilemma": [
+      "Hunter is fascinated by the mystery of Roanoke. Almost immediately, he opens an AI chatbot and begins asking what might have happened to the missing colonists.",
+      "AI offers several intriguing possibilities, complete with historical details, dramatic explanations, and references to supposed evidence.",
+      "Hunter is delighted. Each answer leads to another question, and before long he's exploring increasingly elaborate theories.",
+      "But he hasn't actually examined the historical sources himself. Some of AI's claims may be unsupported, misleading, or entirely invented.",
+      "Hunter is doing plenty of exploring, but he isn't necessarily practicing the historical reasoning the assignment is designed to develop.",
+      "The battle within: Two competing impulses pull at Hunter as he decides what to do."
+    ],
+    "trickster": "Dude! AI found three theories already. This is amazing. Let’s see how deep this rabbit hole goes!",
+    "scholar": "Wait. What did we notice? We haven’t even looked at the evidence ourselves.",
+    "priorities": [
+      [
+        "Meaningful Practice",
+        "Hunter is enthusiastic about exploring historical mysteries, but curiosity alone doesn't guarantee careful historical reasoning. How might the assignment help him practice evaluating sources, distinguishing evidence from speculation, and developing defensible interpretations?"
+      ],
+      [
+        "Reasonable AI Friction",
+        "AI can generate compelling explanations before Hunter has examined the historical record or formed his own hypotheses. How might the assignment encourage Hunter to investigate evidence, develop preliminary interpretations, and evaluate AI-generated claims rather than simply follow them?"
+      ]
+    ],
+    "priorityNotes": [
+      "Remember: Hunter doesn't need more motivation to explore. He needs opportunities to slow down, examine the evidence, and exercise his own judgment. The goal isn't to discourage his curiosity or eliminate AI, but to help him become a more thoughtful investigator.",
+      "These priorities overlap; addressing one may help address the other. There is no perfect redesign. The joy is in experimenting, discussing, and reflecting on your choices."
+    ],
+    "intro": "Help Hunter keep his curiosity while learning to verify evidence before accepting AI’s compelling stories.",
+    "prompt": "How could your guild change the history investigation, its sequence, evidence checks, or AI boundaries so Hunter develops his own hypothesis and evaluates AI claims critically? Address both design priorities.",
+    "questions": "What must Hunter notice before using AI? How can he test an AI-generated theory against actual sources? What would count as defensible evidence? Can the assignment make verification feel like discovery rather than punishment?",
+    "weaponIntro": [
+      "Roll your physical d20 for an optional design strategy. Rolls 1–5 reveal weapon one; 6–10 weapon two; 11–15 weapon three; and 16–20 weapon four. You may use, adapt, or ignore the suggestion."
+    ],
+    "weapons": [
+      [
+        "Blade of Doubt",
+        [
+          "How might the professor model the process of evaluating evidence to determine whether an explanation is actually supported? Before students begin investigating Roanoke, could the professor use other historical mysteries, conspiracy theories, or historical hoaxes to demonstrate how convincing explanations can rely on incomplete, misleading, or fabricated evidence? Consider examples such as the JFK assassination or moon landing conspiracy theories. The instructor might walk students through the process of identifying claims, locating original sources, checking credibility, and determining whether the evidence supports the conclusion. Could students then practice identifying errors in AI-generated historical explanations, including unsupported claims and fabricated citations? The challenge: Model careful historical investigation so Hunter learns to question compelling explanations without losing his enthusiasm for exploring them."
+        ]
+      ],
+      [
+        "Staircase of Evidence",
+        [
+          "Scaffolding the investigation Hunter is eager to develop theories, but he sometimes skips the work of examining historical sources. How might the professor scaffold the Roanoke assignment so that students investigate evidence before settling on a hypothesis? Consider dividing the investigation into stages: An example of a four-stage evidence-building process 1. Collect clues: Students locate historical sources and assemble an initial evidence board, distinguishing primary and secondary sources. 2. Verify evidence: Students investigate where their information came from, assess credibility, and verify any AI-suggested sources. 3. Connect the pieces: Students arrange evidence into a visual puzzle or evidence board, showing how different clues might support or challenge competing explanations. 4. Develop an interpretation: Only after examining the evidence do students submit a preliminary hypothesis, supported by their findings. Could students submit their evidence boards at checkpoints, receiving peer or instructor feedback before developing their final interpretations? The instructor might provide a small collection of starting sources while allowing students to locate additional evidence independently. That gives students a foundation without removing the investigative work. The challenge: Make evidence gathering and verification a meaningful, visible part of the assignment rather than something students can skip on their way to a final answer.",
+          "Each stage is an assignment checkpoint with a small deliverable: Collect clues: An initial evidence collection with source information. Verify evidence: A source evaluation identifying credibility, limitations, and any AI-generated claims checked. Connect the pieces: A visual evidence board or puzzle connecting clues to competing explanations. Interpret: A preliminary hypothesis explaining which evidence supports it and what remains uncertain.",
+          "The professor could provide starting materials, links to university library databases, digital archives, and examples of primary sources. Students would also locate and verify additional sources independently. Digitized physical artifacts such as historical maps, scanned letters, archaeological records, and archival newspaper materials make the investigation more tangible. The professor could even demonstrate how to investigate a historical question using digitized microfilm or microfiche collections."
+        ]
+      ],
+      [
+        "Compass of Inquiry",
+        [
+          "Learning to ask better questions Hunter has plenty of curiosity. His challenge is learning how to turn that curiosity into questions that can be investigated. How might the professor model the process of historical inquiry before asking students to develop their own research questions? Consider using an investigative podcast, such as Serial, to demonstrate how investigators ask questions, pursue evidence, and reconsider their assumptions when new information emerges. Students could identify turning points in an investigation: What question was being asked? What new evidence appeared? How did that change the direction of the inquiry? For the Roanoke assignment, students might generate several questions from their initial evidence, identify what additional information would help answer them, and decide which questions are worth pursuing. Could students use AI to brainstorm possible questions, then evaluate which ones are historically investigable? They might maintain a short detective's notebook documenting how their questions evolved as they uncovered new evidence. The challenge: Help Hunter move from endlessly generating interesting questions to asking productive questions that guide historical investigation."
+        ]
+      ],
+      [
+        "Mirror of Judgment",
+        [
+          "Testing interpretations against competing explanations The Compass is about how questions guide investigation. This weapon should be about how investigators test the conclusions they've reached. How might the professor encourage students to challenge their own interpretations rather than become attached to an exciting theory? Consider assigning students different investigative roles: ● The Detective: Presents a hypothesis and the evidence supporting it. ● The Skeptic: Identifies weaknesses, missing evidence, or alternative explanations. ● The Fact-Checker: Investigates the credibility of sources and verifies claims. ● The Historian: Considers the broader historical context and whether the interpretation fits what is known. Students could share their evidence boards in small groups or brief Zoom sessions, taking turns presenting and challenging interpretations. Could students also ask AI to argue against their preliminary hypothesis, then evaluate whether its objections are credible? Afterward, students would explain whether they revised their interpretation, what evidence influenced their decision, and what uncertainties remain. The challenge: Help Hunter recognize that good historical reasoning involves questioning his own conclusions, not simply defending them."
+        ]
+      ]
+    ],
+    "bossIntro": [
+      "Roll your physical d20. The outcome is fictional and does not evaluate your guild’s redesign. Lower rolls bring worse or unluckier futures; higher rolls bring more positive ones."
+    ],
+    "endings": [
+      [
+        "The Rabbit Hole of No Return",
+        [
+          "Hunter asks AI what happened to the Roanoke colonists. AI suggests a secret underground civilization. Intrigued, Hunter asks another question. And another. Six months later, he's convinced that the Roanoke colonists escaped to the lost city of Atlantis. He organizes an underwater expedition to find them. Unfortunately, his only diving experience comes from video games, and his AI-generated map leads him directly into a coral reef. The Coast Guard rescues him three days later. Hunter immediately asks AI whether the Coast Guard might be covering up Atlantis."
+        ]
+      ],
+      [
+        "The Fabricated Footnote",
+        [
+          "Hunter submits a spectacular explanation of the Roanoke mystery, complete with 37 citations provided by AI. Unfortunately, 29 of the sources don't exist, six have nothing to do with Roanoke, and the remaining two are restaurant menus. His professor asks him to verify his references. Convinced the missing sources must exist somewhere, Hunter asks AI where to find them. AI directs him to a remote archaeological site in the Sahara Desert. Hunter packs his bags and leaves immediately. He has not been seen since, although his professor continues receiving emails requesting extensions."
+        ]
+      ],
+      [
+        "The Conspiracy King",
+        [
+          "Hunter discovers that AI can generate fascinating connections between seemingly unrelated historical events. He begins asking it to identify patterns that historians have overlooked. Soon he's convinced that three medieval kings sharing a birthday proves the existence of a secret organization controlling European history. He establishes a society devoted to exposing the conspiracy. His first meeting attracts one attendee: a librarian who has come to explain that the kings were born in different centuries. Hunter immediately suspects the librarian is involved."
+        ]
+      ],
+      [
+        "The Dragon Who Wasn't There",
+        [
+          "Hunter loves how AI can transform a simple historical question into an extraordinary mystery. When AI tells him that an ancient kingdom was destroyed by a dragon, complete with eyewitness accounts and archaeological evidence, Hunter becomes obsessed. He spends months following AI-generated clues, eventually convincing the royal archaeological society to fund an expedition. Unfortunately, the eyewitness accounts are fabricated, the archaeological sites don't exist, and the dragon was invented by AI. Hunter returns empty-handed. The royal society demands its money back. Hunter asks AI to help him write an apology. AI suggests blaming the dragon."
+        ]
+      ],
+      [
+        "The Conspiracy Convert",
+        [
+          "Hunter becomes completely convinced by AI's explanation of the Roanoke mystery. When a classmate presents historical evidence contradicting the theory, Hunter dismisses it. When another classmate identifies a fabricated source, Hunter insists that the source must have been deliberately erased. Eventually, Hunter decides that historians have been hiding the truth for centuries. He joins an online conspiracy group dedicated to exposing the cover-up. His final assignment consists of a 94-page manifesto explaining why every piece of contradictory evidence actually proves he's right. His professor writes one comment: \"Please see me during office hours.\""
+        ]
+      ],
+      [
+        "The Suspicious Sandwich",
+        [
+          "Hunter becomes so enthusiastic about verifying claims that he starts investigating everything.",
+          "When his roommate says the cafeteria sandwiches are smaller than last semester, Hunter demands photographic evidence, historical pricing records, and at least two independent witnesses.",
+          "His roommate just wanted lunch."
+        ]
+      ],
+      [
+        "The Detective Board",
+        [
+          "Hunter creates an elaborate evidence board connecting every clue in the Roanoke mystery. There are maps, photographs, timelines, historical documents, and dozens of carefully arranged pieces of string. He becomes so enthusiastic about building connections that he starts adding increasingly speculative links suggested by AI. By the time his professor reviews the board, it connects the Roanoke colonists to the Vikings, the Knights Templar, and a mysterious nineteenth-century circus. His professor asks him to explain the connection to the circus. Hunter stares at the board. \"That's actually a really good question.\""
+        ]
+      ],
+      [
+        "The Unreliable Witness",
+        [
+          "Hunter and his classmates investigate an AI-generated account of a mysterious medieval disappearance.",
+          "Hunter discovers that the account contains several invented quotations and a reference to a historian who never existed.",
+          "He triumphantly announces his discovery.",
+          "Unfortunately, he's so excited about catching AI making mistakes that he forgets to finish his own investigation.",
+          "His professor gives him an extension."
+        ]
+      ],
+      [
+        "The Great Debate",
+        [
+          "Hunter presents his interpretation of the Roanoke mystery to his classmates.",
+          "A peer challenges one of his conclusions, and Hunter responds with evidence. Another student offers a competing explanation, and Hunter considers it carefully.",
+          "The discussion is going wonderfully.",
+          "Then Hunter asks whether they can investigate another historical mystery.",
+          "Three hours later, everyone is still in the Zoom meeting."
+        ]
+      ],
+      [
+        "The First Real Clue",
+        [
+          "Hunter begins his Roanoke investigation by examining historical sources rather than asking AI for an explanation.",
+          "He discovers that one of his initial assumptions isn't supported by the evidence.",
+          "Instead of becoming discouraged, he gets curious.",
+          "For the first time, Hunter realizes that discovering he's wrong can be more interesting than finding evidence that he's right."
+        ]
+      ],
+      [
+        "The Case File",
+        [
+          "Hunter organizes his research into a detective's case file, carefully documenting sources, questions, and competing explanations. When he begins writing his final interpretation, he discovers that most of the difficult thinking is already done. He earns an A for his excellent investigative work, and his professor compliments the beautifully designed cover of his case file. His research is incredible. So is the cover."
+        ]
+      ],
+      [
+        "The Question That Changed Everything",
+        [
+          "Hunter begins with a question about why the Roanoke colonists disappeared.",
+          "As he examines historical evidence, he realizes that a different question might be more useful: What evidence exists about where the colonists may have gone?",
+          "He changes the direction of his investigation.",
+          "His final explanation is less dramatic than his original theory, but considerably better supported.",
+          "Hunter finds this surprisingly satisfying."
+        ]
+      ],
+      [
+        "The AI Interrogation",
+        [
+          "Hunter asks AI to generate three possible explanations for a historical mystery.",
+          "Instead of accepting the answers, he treats AI like a witness.",
+          "\"What's your evidence?\"",
+          "\"Where did that information come from?\"",
+          "\"Can you verify that source?\"",
+          "By the end of the conversation, Hunter has identified two unsupported claims and one promising lead.",
+          "AI is no longer running the investigation.",
+          "Hunter is."
+        ]
+      ],
+      [
+        "The Peer Review",
+        [
+          "Hunter shares his evidence board with a classmate.",
+          "She notices that one of his strongest conclusions relies on a source he hasn't adequately verified.",
+          "Hunter checks the source and discovers she's right.",
+          "He revises his interpretation and thanks her.",
+          "His final argument is stronger because someone challenged it."
+        ]
+      ],
+      [
+        "The Historical Detective",
+        [
+          "Hunter becomes known among his classmates for asking excellent questions and tracking down difficult sources.",
+          "When another student encounters a suspicious AI-generated citation, they ask Hunter for help.",
+          "Together, they locate the original document and discover that AI misrepresented its contents.",
+          "Hunter realizes that verifying evidence can be just as exciting as discovering a new theory."
+        ]
+      ],
+      [
+        "The Mystery Club",
+        [
+          "Hunter starts a student historical mysteries club.",
+          "Each month, members investigate a different mystery, examine original sources, and debate competing interpretations.",
+          "AI is welcome to suggest leads, but every claim must survive the club's evidence review.",
+          "Membership grows quickly.",
+          "The club's unofficial motto becomes: \"Every mystery deserves evidence.\""
+        ]
+      ],
+      [
+        "The Digital Archivist",
+        [
+          "Hunter becomes fascinated by historical archives after working with digitized maps, letters, and newspaper collections.",
+          "He volunteers to help make a local historical collection more accessible.",
+          "While cataloging materials, he discovers a document that challenges a long-accepted interpretation of a local event.",
+          "This time, he doesn't immediately announce that he's solved the mystery.",
+          "He verifies the document first."
+        ]
+      ],
+      [
+        "The Royal Investigator",
+        [
+          "The king summons Hunter to investigate the disappearance of a priceless royal artifact.",
+          "Rumors spread that the artifact was stolen by dragons, hidden by sorcerers, or transported through a magical portal.",
+          "Hunter resists the temptation to pursue the most exciting explanation.",
+          "He interviews witnesses, examines records, and carefully reconstructs the evidence.",
+          "The artifact is eventually discovered in the royal treasury, where an absentminded steward misplaced it.",
+          "The king is disappointed that no dragons were involved.",
+          "Hunter is delighted that the evidence led him to the answer."
+        ]
+      ],
+      [
+        "The Keeper of Lost Histories",
+        [
+          "An ancient library containing the kingdom's history is discovered beneath a ruined castle.",
+          "Its records are incomplete, contradictory, and filled with legends that have been repeated for centuries.",
+          "Hunter assembles a team of investigators to examine the documents, verify their origins, and distinguish historical evidence from mythology.",
+          "Their discoveries transform the kingdom's understanding of its past.",
+          "Hunter becomes the first Keeper of Lost Histories.",
+          "He insists that the library's most important rule be carved above the entrance:",
+          "\"An interesting story is only the beginning.\""
+        ]
+      ],
+      [
+        "The Dragon's False Prophecy",
+        [
+          "A terrifying prophecy spreads throughout the realm: an ancient dragon will awaken at midnight and destroy the kingdom.",
+          "The prophecy appears in dozens of books, scrolls, and magical records. Everyone believes it.",
+          "Hunter notices something strange. Every account traces back to the same mysterious source.",
+          "He investigates and discovers that the prophecy was fabricated centuries ago by a mischievous wizard. Generations of scribes had simply copied it without checking.",
+          "Hunter presents his evidence to the royal council just before midnight.",
+          "The kingdom cancels its evacuation.",
+          "Midnight arrives. Nothing happens.",
+          "The king offers Hunter a chest of gold.",
+          "Hunter asks for access to the royal archives instead."
+        ]
+      ]
+    ]
+  }
+}
